@@ -15,6 +15,10 @@ console.log(somma);
 
 // while
 
+let somma, numbers
+
+somma = 0
+
 let i = 0
 while (i < 5) {
 let numbers = Number(prompt ('digita un numero'))
